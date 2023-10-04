@@ -1,42 +1,30 @@
-**Bel-CMS is CMS**
+**Bannissement(s)**
   
-  Easy, modern, user friendly, and totally customizable, it offers many functionnalites for causal user !
-
-#####
-
-- [Overview](#overview)
-- [Requires](#requires)
-- [Installation](#installation)
-- [Contribution](#contribution)
+- Simple, moderne, convivial et totalement personnalisable, il offre de nombreuses fonctionnalités pour les utilisateurs causals !
 
 ## Overview
 
-Bel-CMS is leader open source CMS since 2015.
+- Bannissement is open source since 2023.
 
-It provides a simple way to create websites.
+- Il fournit un moyen simple de créer un bannissement.
 
 ## Requires
 
-Bel-CMS need a LAMP hosting (Apache / PHP / MySQL).
-
-- Apache
-* mod_rewrite
-
-- PHP 7.2
-* short_open_tag
+- Bannissement requis (HTML / jQuery / JS).
 
 ## Installation
 
-- Copy all content of folder on your FTP
-- Go to your website with http://your-website.com/INSTALL/
-- Follow instructions !
+- Copiez tout le contenu du dossier sur votre FTP
+- Modifier le HTML data-countDate sur la classe : counter-widget
+- Modifier le GMT+1 pour Europe/Paris etc... 
 
 ## Contribution
 
-Feel free to contribute to the greatest CMS already made, share your ideas, and help us to build a better CMS for all !
-- For more information [Bel-CMS](http://bel-cms.be)
+N'hésitez pas à contribuer pour rendre meilleur le bannissement déjà créé, partagez vos idées et aidez-nous à construire un bannissement compatible avec tous les CMS !
+
+- For more information [Bel-CMS](http://bel-cms.dev)
 - For issues/bugs : https://github.com/Stive1987/Bel-CMS/issues
 
 Stay tuned on social medias : [@Facebook/Bel-CMS](https://www.facebook.com/Bel.CMS/)
 
-Copyleft 2015 - 2019
+Copyleft 2023 by Determe Stive
